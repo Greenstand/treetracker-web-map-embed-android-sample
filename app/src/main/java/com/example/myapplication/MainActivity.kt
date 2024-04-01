@@ -28,7 +28,7 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
                     //Greeting("Android")
-                    WebPage(url = "https://map.treetracker.org")
+                    WebPage(url = "https://map.treetracker.org/wallets/9e143717-b34b-4e53-b810-6668d371adda?bounds=36.460189819335945,-0.23878028414651437,36.51889801025391,-0.16230561483658262&tree_id=1400272")
                    // WebPage(url = "https://www.baidu.com")
                 }
 
